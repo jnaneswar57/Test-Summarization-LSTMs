@@ -2,7 +2,7 @@
 
 Text summarization is the problem of creating a short, accurate, and fluent summary of a longer text document. It is a Natural Language Processing application which produces short and meaningful summary of a lengthy paragraph thereby helping us to understand the essence of the topic in an efficient way.
 
-Automatic text summarization methods are greatly needed to address the ever-growing amount of text data available online to both better help discover relevant information and to consume relevant information faster.
+Automatic text summarization methods are greatly needed to address the evf ff fffer-growing amount of text data available online to both better help discover relevant information and to consume relevant information faster.
 
 Types of Text Summarization
 1. **Abstrative Based**: In Abstractive based, we generate new sentences from the original text. The sentences generated through abstractive summarization might not be present in the original text.
